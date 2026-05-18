@@ -1,0 +1,21 @@
+:root{
+  --linear-gradient: linear-gradient(90deg,rgba(142, 151, 237, 1) 0%, rgba(92, 166, 251, 1) 100%);
+  --bg-white:#FFFFFF;
+  --bg-sery:#F6F6F6;
+
+  --font-white: white;
+
+  --border-radius: 50%;
+  --border-radius: 20px;
+
+  --color-text-h:#333;
+  --color-text-p:#777;
+
+  
+  --font-family-naron:'Naron-Bold', sans-serif;
+
+  --container-widht:  1200px;
+  --container-padding-x: 15px;
+
+  --transition-duration: 0.2s;
+}
